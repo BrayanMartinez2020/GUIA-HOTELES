@@ -1,0 +1,16 @@
+{
+  "name": "guia-hoteles",
+  "version": "1.0.0",
+  "description": "Mi primer proyecto kemosion de nodejs",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://BrayanMartinez2020@bitbucket.org/BrayanMartinez2020/guia-hoteles.git"
+  },
+  "author": "Brayan David Martinez Calvo",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/BrayanMartinez2020/guia-hoteles#readme"
+}
